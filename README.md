@@ -8,7 +8,7 @@ The Machine Learning of Obstructive Jaundice based on Common Laboratory Tests (M
 The dataset used for training the MOLT model consists of laboratory test results obtained from patients with and without obstructive jaundice. It includes 57 features, such as liver function tests, bilirubin levels, and other biochemical markers. The dataset is provided along with the project for reference and verification purposes.
 
 ## Repository Structure
-- `datasets/`: This directory contains the example dataset used for training the MOLT model, along with documentation describing the dataset and its features.
+- `datasets/`: This directory contains the example dataset used for validating the MOLT model, along with documentation describing the dataset and its features.
 - `models/`: This directory contains the trained machine learning models, including the MOLT binary classification model and the MOLT multiclass classification model.
 - `scripts/`: This directory contains R scripts used for data preprocessing, model training, and evaluation.
 - `README.md`: This file provides an overview of the project, instructions for replicating the results, and contact information for the authors.
