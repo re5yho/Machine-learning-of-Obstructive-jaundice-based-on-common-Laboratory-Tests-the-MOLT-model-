@@ -5,7 +5,7 @@ A collection of mahine learning models developed by R using mlr3 framework. With
 The Machine Learning of Obstructive Jaundice based on Common Laboratory Tests (MOLT) model is a research project aimed at developing a machine learning model to predict obstructive jaundice based on common laboratory tests. The model utilizes a dataset of 57 features derived from laboratory test results, and it aims to assist healthcare professionals in diagnosing obstructive jaundice more accurately and efficiently.
 
 ## Dataset
-The dataset used for training the MOLT model consists of laboratory test results obtained from patients with and without obstructive jaundice. It includes 57 features, such as liver function tests, bilirubin levels, and other biochemical markers. The dataset is provided along with the project for reference and verification purposes.
+The dataset used for training the MOLT model consists of laboratory test results obtained from patients with various causes to obstructive jaundice. It includes 57 features, such as tumor markers, liver function tests, and other biochemical markers. The dataset used for external validation is provided along with the project for reference and verification purposes.
 
 ## Repository Structure
 - `datasets/`: This directory contains the example dataset used for validating the MOLT model, along with documentation describing the dataset and its features.
